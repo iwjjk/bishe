@@ -1,5 +1,5 @@
 # 基于注意力机制的花朵图像分类算法
-项目包括三个文件,包含了三个不同的算法，分别是Vision Transformer,Swin Transformer以及MobileViT,三个算法的总体结构一致，运行方式皆如下所述
+项目包括三个文件,包含了三个不同的算法，分别是Vision Transformer,Swin Transformer以及MobileViT,三个算法的总体结构一致，运行方式如下所述
 # 代码运行方式介绍
 1.下载数据集，代码中默认使用花朵数据集  
 2.在train.py脚本修改正确数据集的路径  
